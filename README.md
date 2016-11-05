@@ -27,17 +27,9 @@ Você deve entregar o código final, incluindo os testes e os mock objects criad
 Review criteriamenos 
 Você será avaliado com base no seguinte:
 
-Cumprimento dos requisitos de implementação pedidos no enunciado
-Organização do código implementado
-Uso correto de Mock Objects
-A separação do código relativo a testes do código de produção
+1 Cumprimento dos requisitos de implementação pedidos no enunciado
+2 Organização do código implementado
+3 Uso correto de Mock Objects
+4 A separação do código relativo a testes do código de produção
 
-
-included:
-All source files (.cc, .hh, .cpp, .h)
-this README
-Makefile
-Output dumped by gprof for 5 tests (see below on why I don't have profiling data for BST/words.txt test)
-
-Homework #5
 
